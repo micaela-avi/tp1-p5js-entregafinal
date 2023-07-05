@@ -1,8 +1,8 @@
 # tp1-p5js-entregafinal
 ## Avila Micaela 
 ##TRABAJO PRÁCTICO N° 1
-•	Título de la obra:  Cuadriláteros
-•	Año: 2023
+##•	Título de la obra:  Cuadriláteros
+##•	Año: 2023
 •	Autor/a: Micaela Avila
 •	Enlace a la obra: 
 •	Breve descripción: La siguiente obra toma como referente a la artista Vera Molnar, siguiendo la estética de la artista de trabajar con figuras geométricas. Es por ello, que se toman figuras primitivas para poder generar una composición con estos elementos simples, variando el grosor de los contornos y los valores acromáticos de la misma. 
